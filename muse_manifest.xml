@@ -1,0 +1,508 @@
+<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jocepicz.com" resolutions="1x" timestamp="1499574460289">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="3927780732" ref="orange-cliffs:land-ripples:horseshoe-bend:water-canyon-sunrise:boulder-in-the-narrows:solitude-in-sandstone:upstream-tree:delicate-arch:monumental-road:waning-light-on-grand-canyon:river-bend:narrows-in-zion:hollowed-sandstone-walls:a-splash-of-sunlight:index:bryce-canyon-in-the-blue-hour:narrows-in-zion-3:narrows-in-zion-2:a-sea-of-sand:narrows-in-zion-4:a-crooked-tree:contact:prints:narrows-in-zion-5:zion-cliff:prints-2:glistening-tree:fern-wall:milky-way:rock-in-the-river:water-canyon"/>
+    <file name="orange-cliffs.css" crc="365180693" ref="orange-cliffs"/>
+    <file name="land-ripples.css" crc="4117079526" ref="land-ripples"/>
+    <file name="horseshoe-bend.css" crc="59364451" ref="horseshoe-bend"/>
+    <file name="water-canyon-sunrise.css" crc="4117613293" ref="water-canyon-sunrise"/>
+    <file name="boulder-in-the-narrows.css" crc="3828013946" ref="boulder-in-the-narrows"/>
+    <file name="solitude-in-sandstone.css" crc="310411378" ref="solitude-in-sandstone"/>
+    <file name="upstream-tree.css" crc="493746755" ref="upstream-tree"/>
+    <file name="delicate-arch.css" crc="3827359877" ref="delicate-arch"/>
+    <file name="monumental-road.css" crc="4254391829" ref="monumental-road"/>
+    <file name="waning-light-on-grand-canyon.css" crc="4100092934" ref="waning-light-on-grand-canyon"/>
+    <file name="river-bend.css" crc="302395542" ref="river-bend"/>
+    <file name="narrows-in-zion.css" crc="369311646" ref="narrows-in-zion"/>
+    <file name="hollowed-sandstone-walls.css" crc="3861978781" ref="hollowed-sandstone-walls"/>
+    <file name="a-splash-of-sunlight.css" crc="3802055150" ref="a-splash-of-sunlight"/>
+    <file name="index.css" crc="269497643" ref="index"/>
+    <file name="bryce-canyon-in-the-blue-hour.css" crc="4210424139" ref="bryce-canyon-in-the-blue-hour"/>
+    <file name="narrows-in-zion-3.css" crc="31139330" ref="narrows-in-zion-3"/>
+    <file name="narrows-in-zion-2.css" crc="4006293381" ref="narrows-in-zion-2"/>
+    <file name="a-sea-of-sand.css" crc="4186709602" ref="a-sea-of-sand"/>
+    <file name="narrows-in-zion-4.css" crc="3908693490" ref="narrows-in-zion-4"/>
+    <file name="a-crooked-tree.css" crc="306203684" ref="a-crooked-tree"/>
+    <file name="contact.css" crc="198316955" ref="contact"/>
+    <file name="prints.css" crc="356598432" ref="prints"/>
+    <file name="narrows-in-zion-5.css" crc="4060435114" ref="narrows-in-zion-5"/>
+    <file name="zion-cliff.css" crc="26577350" ref="zion-cliff"/>
+    <file name="prints-2.css" crc="376092876" ref="prints-2"/>
+    <file name="glistening-tree.css" crc="4142423720" ref="glistening-tree"/>
+    <file name="fern-wall.css" crc="3882871769" ref="fern-wall"/>
+    <file name="milky-way.css" crc="3986335636" ref="milky-way"/>
+    <file name="rock-in-the-river.css" crc="4008379428" ref="rock-in-the-river"/>
+    <file name="water-canyon.css" crc="3762757034" ref="water-canyon"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:prints:prints-2:milky-way:water-canyon:horseshoe-bend:boulder-in-the-narrows:delicate-arch:waning-light-on-grand-canyon:hollowed-sandstone-walls:solitude-in-sandstone:monumental-road:river-bend:a-splash-of-sunlight:bryce-canyon-in-the-blue-hour:a-sea-of-sand:a-crooked-tree:zion-cliff:fern-wall:rock-in-the-river:land-ripples:water-canyon-sunrise:upstream-tree:narrows-in-zion:narrows-in-zion-2:narrows-in-zion-3:narrows-in-zion-4:narrows-in-zion-5:glistening-tree:orange-cliffs"/>
+    <file name="museutils.js" crc="46400467" ref="index:contact:prints:prints-2:milky-way:water-canyon:horseshoe-bend:boulder-in-the-narrows:delicate-arch:waning-light-on-grand-canyon:hollowed-sandstone-walls:solitude-in-sandstone:monumental-road:river-bend:a-splash-of-sunlight:bryce-canyon-in-the-blue-hour:a-sea-of-sand:a-crooked-tree:zion-cliff:fern-wall:rock-in-the-river:land-ripples:water-canyon-sunrise:upstream-tree:narrows-in-zion:narrows-in-zion-2:narrows-in-zion-3:narrows-in-zion-4:narrows-in-zion-5:glistening-tree:orange-cliffs"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:prints:prints-2:milky-way:water-canyon:horseshoe-bend:boulder-in-the-narrows:delicate-arch:waning-light-on-grand-canyon:hollowed-sandstone-walls:solitude-in-sandstone:monumental-road:river-bend:a-splash-of-sunlight:bryce-canyon-in-the-blue-hour:a-sea-of-sand:a-crooked-tree:zion-cliff:fern-wall:rock-in-the-river:land-ripples:water-canyon-sunrise:upstream-tree:narrows-in-zion:narrows-in-zion-2:narrows-in-zion-3:narrows-in-zion-4:narrows-in-zion-5:glistening-tree:orange-cliffs"/>
+    <file name="museconfig.js" crc="4273287925" ref="index:contact:prints:prints-2:milky-way:water-canyon:horseshoe-bend:boulder-in-the-narrows:delicate-arch:waning-light-on-grand-canyon:hollowed-sandstone-walls:solitude-in-sandstone:monumental-road:river-bend:a-splash-of-sunlight:bryce-canyon-in-the-blue-hour:a-sea-of-sand:a-crooked-tree:zion-cliff:fern-wall:rock-in-the-river:land-ripples:water-canyon-sunrise:upstream-tree:narrows-in-zion:narrows-in-zion-2:narrows-in-zion-3:narrows-in-zion-4:narrows-in-zion-5:glistening-tree:orange-cliffs"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:contact:prints:prints-2:milky-way:water-canyon:horseshoe-bend:boulder-in-the-narrows:delicate-arch:waning-light-on-grand-canyon:hollowed-sandstone-walls:solitude-in-sandstone:monumental-road:river-bend:a-splash-of-sunlight:bryce-canyon-in-the-blue-hour:a-sea-of-sand:a-crooked-tree:zion-cliff:fern-wall:rock-in-the-river:land-ripples:water-canyon-sunrise:upstream-tree:narrows-in-zion:narrows-in-zion-2:narrows-in-zion-3:narrows-in-zion-4:narrows-in-zion-5:glistening-tree:orange-cliffs"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:prints:prints-2:milky-way:water-canyon:horseshoe-bend:boulder-in-the-narrows:delicate-arch:waning-light-on-grand-canyon:hollowed-sandstone-walls:solitude-in-sandstone:monumental-road:river-bend:a-splash-of-sunlight:bryce-canyon-in-the-blue-hour:a-sea-of-sand:a-crooked-tree:zion-cliff:fern-wall:rock-in-the-river:land-ripples:water-canyon-sunrise:upstream-tree:narrows-in-zion:narrows-in-zion-2:narrows-in-zion-3:narrows-in-zion-4:narrows-in-zion-5:glistening-tree:orange-cliffs"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:contact:prints:prints-2:milky-way:water-canyon:horseshoe-bend:boulder-in-the-narrows:delicate-arch:waning-light-on-grand-canyon:hollowed-sandstone-walls:solitude-in-sandstone:monumental-road:river-bend:a-splash-of-sunlight:bryce-canyon-in-the-blue-hour:a-sea-of-sand:a-crooked-tree:zion-cliff:fern-wall:rock-in-the-river:land-ripples:water-canyon-sunrise:upstream-tree:narrows-in-zion:narrows-in-zion-2:narrows-in-zion-3:narrows-in-zion-4:narrows-in-zion-5:glistening-tree:orange-cliffs"/>
+    <file name="webpro.js" crc="4152390327" ref="index:contact"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:prints:prints-2:milky-way:water-canyon:horseshoe-bend:boulder-in-the-narrows:delicate-arch:waning-light-on-grand-canyon:hollowed-sandstone-walls:solitude-in-sandstone:monumental-road:river-bend:a-splash-of-sunlight:bryce-canyon-in-the-blue-hour:a-sea-of-sand:a-crooked-tree:zion-cliff:fern-wall:rock-in-the-river:land-ripples:water-canyon-sunrise:upstream-tree:narrows-in-zion:narrows-in-zion-2:narrows-in-zion-3:narrows-in-zion-4:narrows-in-zion-5:glistening-tree:orange-cliffs"/>
+    <file name="require.js" crc="85721165" ref="index:contact:prints:prints-2:milky-way:water-canyon:horseshoe-bend:boulder-in-the-narrows:delicate-arch:waning-light-on-grand-canyon:hollowed-sandstone-walls:solitude-in-sandstone:monumental-road:river-bend:a-splash-of-sunlight:bryce-canyon-in-the-blue-hour:a-sea-of-sand:a-crooked-tree:zion-cliff:fern-wall:rock-in-the-river:land-ripples:water-canyon-sunrise:upstream-tree:narrows-in-zion:narrows-in-zion-2:narrows-in-zion-3:narrows-in-zion-4:narrows-in-zion-5:glistening-tree:orange-cliffs"/>
+    <file name="form_check.php" crc="4286608207" ref="contact"/>
+    <file name="form_throttle.php" crc="313199896" ref="contact"/>
+    <file name="form_process.php" crc="3855659497" ref="contact"/>
+    <file name="form-u2335.php" crc="238578768" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="pic_0093.jpg" crc="442821333" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted image 974x348-crop-u157.png" crc="27992047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u175-4.png" crc="447263010" ref="index"/>
+    <file name="u195-4.png" crc="4194425845" ref="index"/>
+    <file name="pasted image 4320x2432-crop-u199.jpg" crc="3988961530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic_0093647x374.jpg" crc="4264301991" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="pic_0005.jpg" crc="3922007322" ref="index:milky-way">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="milky-way" alt=""/>
+    </file>
+    <file name="pic_0022.jpg" crc="3999364887" ref="index:monumental-road">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="monumental-road" alt=""/>
+    </file>
+    <file name="pic_0026.jpg" crc="3862799256" ref="index:bryce-canyon-in-the-blue-hour">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="bryce-canyon-in-the-blue-hour" alt=""/>
+    </file>
+    <file name="pic_0028.jpg" crc="487356492" ref="index:horseshoe-bend">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="horseshoe-bend" alt=""/>
+    </file>
+    <file name="pic_0040.jpg" crc="87197399" ref="index:fern-wall">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="fern-wall" alt=""/>
+    </file>
+    <file name="pic_0051 2.jpg" crc="248260513" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic_0053.jpg" crc="4226935638" ref="index:rock-in-the-river">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="rock-in-the-river" alt=""/>
+    </file>
+    <file name="pic_0054.jpg" crc="306268111" ref="index:boulder-in-the-narrows">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="boulder-in-the-narrows" alt=""/>
+    </file>
+    <file name="pic_0056.jpg" crc="181069177" ref="index:delicate-arch">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="delicate-arch" alt=""/>
+    </file>
+    <file name="pic_0063.jpg" crc="4269328631" ref="index:water-canyon">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="water-canyon" alt=""/>
+    </file>
+    <file name="pic_0081.jpg" crc="8443509" ref="index:zion-cliff">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="zion-cliff" alt=""/>
+    </file>
+    <file name="pic_0094.jpg" crc="3780017093" ref="index:hollowed-sandstone-walls">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="hollowed-sandstone-walls" alt=""/>
+    </file>
+    <file name="pic_0102.jpg" crc="3844726960" ref="index:solitude-in-sandstone">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="solitude-in-sandstone" alt=""/>
+    </file>
+    <file name="pic_0128.jpg" crc="3967256594" ref="index:a-crooked-tree">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="a-crooked-tree" alt=""/>
+    </file>
+    <file name="pic_0161.jpg" crc="3823754219" ref="index:waning-light-on-grand-canyon">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="waning-light-on-grand-canyon" alt=""/>
+    </file>
+    <file name="pic_0037.jpg" crc="4058577198" ref="index:river-bend">
+      <caption webpage="index" alt=""/>
+      <caption webpage="river-bend" alt=""/>
+    </file>
+    <file name="pic_0039-crop-u5501.jpg" crc="3853239181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic_0045-crop-u5553.jpg" crc="3822064502" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic_0047-crop-u5579.jpg" crc="322703056" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic_0049-crop-u5605.jpg" crc="3775121339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic_0051.jpg" crc="114724966" ref="index:a-splash-of-sunlight">
+      <caption webpage="index" alt=""/>
+      <caption webpage="a-splash-of-sunlight" alt=""/>
+    </file>
+    <file name="pic_0057-crop-u5761.jpg" crc="3919449699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic_0060-crop-u5787.jpg" crc="430744260" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic_0064-crop-u5839.jpg" crc="522910992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic_0066-crop-u5865.jpg" crc="252300964" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic_0068-crop-u5891.jpg" crc="4125453787" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic_0095-crop-u5995.jpg" crc="350985066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u2494-4.png" crc="347567235" ref="contact"/>
+    <file name="pic_0005-u1917-fr.jpg" crc="3899469190" ref="prints"/>
+    <file name="pic_0054-u1957-fr.jpg" crc="3776129755" ref="prints"/>
+    <file name="pic_0094-u1984-fr.jpg" crc="4100932021" ref="prints"/>
+    <file name="pic_0037-u2065-fr.jpg" crc="3841119660" ref="prints"/>
+    <file name="pic_0093-u2095-fr.jpg" crc="3980034756" ref="prints"/>
+    <file name="pic_0040-u2121-fr.jpg" crc="3792380902" ref="prints"/>
+    <file name="pic_0063-u1934-fr.jpg" crc="3991111443" ref="prints"/>
+    <file name="pic_0056-u1960-fr.jpg" crc="425834215" ref="prints"/>
+    <file name="pic_0102-u1987-fr.jpg" crc="4285148462" ref="prints"/>
+    <file name="pic_0051-u2068-fr.jpg" crc="61330369" ref="prints"/>
+    <file name="pic_0128-u2098-fr.jpg" crc="344299300" ref="prints"/>
+    <file name="pic_0053-u2124-fr.jpg" crc="36491088" ref="prints"/>
+    <file name="pic_0028-u1937-fr.jpg" crc="4002686881" ref="prints"/>
+    <file name="pic_0161-u1963-fr.jpg" crc="3819122524" ref="prints"/>
+    <file name="pic_0022-u1990-fr.jpg" crc="3908909859" ref="prints"/>
+    <file name="pic_0026-u2071-fr.jpg" crc="4045438202" ref="prints"/>
+    <file name="pic_0081-u2101-fr.jpg" crc="3970790506" ref="prints"/>
+    <file name="u2145-4.png" crc="256130865" ref="prints"/>
+    <file name="pngpix-com-arrow-transparent-png-image-3.png" crc="3923996105" ref="prints">
+      <caption webpage="prints" alt=""/>
+    </file>
+    <file name="pic_0095-u2201-fr.jpg" crc="4035483694" ref="prints-2"/>
+    <file name="pic_0066-u2212-fr.jpg" crc="3946584671" ref="prints-2"/>
+    <file name="pic_0068-u2223-fr.jpg" crc="4236922182" ref="prints-2"/>
+    <file name="pic_0060-u2234-fr.jpg" crc="425724021" ref="prints-2"/>
+    <file name="pic_0057-u2245-fr.jpg" crc="3803823348" ref="prints-2"/>
+    <file name="pic_0047-u2272-fr.jpg" crc="322682321" ref="prints-2"/>
+    <file name="pic_0045-u2283-fr.jpg" crc="3925631116" ref="prints-2"/>
+    <file name="pic_0049-u2294-fr.jpg" crc="163082058" ref="prints-2"/>
+    <file name="pic_0064-u2305-fr.jpg" crc="3830262113" ref="prints-2"/>
+    <file name="pic_0039-u2316-fr.jpg" crc="3760885889" ref="prints-2"/>
+    <file name="pasted image 3677x2873.png" crc="4160219355" seo="true" ref="prints-2">
+      <caption webpage="prints-2" alt=""/>
+    </file>
+    <file name="u2894-4.png" crc="4033419785" ref="milky-way"/>
+    <file name="pic_0011.jpg" crc="4128264145" ref="milky-way">
+      <caption webpage="milky-way" alt=""/>
+    </file>
+    <file name="pic_0010.jpg" crc="3811196813" ref="milky-way">
+      <caption webpage="milky-way" alt=""/>
+    </file>
+    <file name="pic_0009.jpg" crc="3813624393" ref="milky-way">
+      <caption webpage="milky-way" alt=""/>
+    </file>
+    <file name="pic_0086.jpg" crc="215997307" ref="water-canyon">
+      <caption webpage="water-canyon" alt=""/>
+    </file>
+    <file name="pic_0085.jpg" crc="477013051" ref="water-canyon">
+      <caption webpage="water-canyon" alt=""/>
+    </file>
+    <file name="pic_0084.jpg" crc="81409747" ref="water-canyon">
+      <caption webpage="water-canyon" alt=""/>
+    </file>
+    <file name="pic_0008.jpg" crc="167036992" ref="horseshoe-bend">
+      <caption webpage="horseshoe-bend" alt=""/>
+    </file>
+    <file name="pic_0007.jpg" crc="334575653" ref="horseshoe-bend">
+      <caption webpage="horseshoe-bend" alt=""/>
+    </file>
+    <file name="pic_0006.jpg" crc="3858286708" ref="horseshoe-bend">
+      <caption webpage="horseshoe-bend" alt=""/>
+    </file>
+    <file name="pic_0029.jpg" crc="4280107250" ref="boulder-in-the-narrows">
+      <caption webpage="boulder-in-the-narrows" alt=""/>
+    </file>
+    <file name="pic_00282.jpg" crc="390998661" ref="boulder-in-the-narrows">
+      <caption webpage="boulder-in-the-narrows" alt=""/>
+    </file>
+    <file name="pic_0027.jpg" crc="121716335" ref="boulder-in-the-narrows">
+      <caption webpage="boulder-in-the-narrows" alt=""/>
+    </file>
+    <file name="pic_00262.jpg" crc="4097320146" ref="delicate-arch">
+      <caption webpage="delicate-arch" alt=""/>
+    </file>
+    <file name="pic_0025.jpg" crc="4209447480" ref="delicate-arch">
+      <caption webpage="delicate-arch" alt=""/>
+    </file>
+    <file name="pic_0024.jpg" crc="183953224" ref="delicate-arch">
+      <caption webpage="delicate-arch" alt=""/>
+    </file>
+    <file name="pic_0062.jpg" crc="3993931545" ref="waning-light-on-grand-canyon">
+      <caption webpage="waning-light-on-grand-canyon" alt=""/>
+    </file>
+    <file name="pic_0061.jpg" crc="3759712791" ref="waning-light-on-grand-canyon">
+      <caption webpage="waning-light-on-grand-canyon" alt=""/>
+    </file>
+    <file name="pic_0060.jpg" crc="4100377874" ref="waning-light-on-grand-canyon">
+      <caption webpage="waning-light-on-grand-canyon" alt=""/>
+    </file>
+    <file name="pic_0068.jpg" crc="3773861710" ref="hollowed-sandstone-walls">
+      <caption webpage="hollowed-sandstone-walls" alt=""/>
+    </file>
+    <file name="pic_0067.jpg" crc="183872998" ref="hollowed-sandstone-walls">
+      <caption webpage="hollowed-sandstone-walls" alt=""/>
+    </file>
+    <file name="pic_0066.jpg" crc="4149323316" ref="hollowed-sandstone-walls">
+      <caption webpage="hollowed-sandstone-walls" alt=""/>
+    </file>
+    <file name="pic_00052.jpg" crc="4055504969" ref="solitude-in-sandstone">
+      <caption webpage="solitude-in-sandstone" alt=""/>
+    </file>
+    <file name="pic_0004.jpg" crc="151478644" ref="solitude-in-sandstone">
+      <caption webpage="solitude-in-sandstone" alt=""/>
+    </file>
+    <file name="pic_0003.jpg" crc="4155582955" ref="solitude-in-sandstone">
+      <caption webpage="solitude-in-sandstone" alt=""/>
+    </file>
+    <file name="pic_00562.jpg" crc="459859924" ref="monumental-road">
+      <caption webpage="monumental-road" alt=""/>
+    </file>
+    <file name="pic_0055.jpg" crc="429233682" ref="monumental-road">
+      <caption webpage="monumental-road" alt=""/>
+    </file>
+    <file name="pic_00542.jpg" crc="4199233162" ref="monumental-road">
+      <caption webpage="monumental-road" alt=""/>
+    </file>
+    <file name="pic_0050.jpg" crc="4120336178" ref="river-bend">
+      <caption webpage="river-bend" alt=""/>
+    </file>
+    <file name="pic_0049.jpg" crc="3786376753" ref="river-bend">
+      <caption webpage="river-bend" alt=""/>
+    </file>
+    <file name="pic_0048.jpg" crc="198837657" ref="river-bend">
+      <caption webpage="river-bend" alt=""/>
+    </file>
+    <file name="pic_0035.jpg" crc="524178963" ref="a-splash-of-sunlight">
+      <caption webpage="a-splash-of-sunlight" alt=""/>
+    </file>
+    <file name="pic_0034.jpg" crc="437474091" ref="a-splash-of-sunlight">
+      <caption webpage="a-splash-of-sunlight" alt=""/>
+    </file>
+    <file name="pic_0033.jpg" crc="4205768426" ref="a-splash-of-sunlight">
+      <caption webpage="a-splash-of-sunlight" alt=""/>
+    </file>
+    <file name="pic_00532.jpg" crc="89154509" ref="bryce-canyon-in-the-blue-hour">
+      <caption webpage="bryce-canyon-in-the-blue-hour" alt=""/>
+    </file>
+    <file name="pic_0052.jpg" crc="257635027" ref="bryce-canyon-in-the-blue-hour">
+      <caption webpage="bryce-canyon-in-the-blue-hour" alt=""/>
+    </file>
+    <file name="pic_00512.jpg" crc="262374726" ref="bryce-canyon-in-the-blue-hour">
+      <caption webpage="bryce-canyon-in-the-blue-hour" alt=""/>
+    </file>
+    <file name="pic_0093-u3330-fr.jpg" crc="4170541814" ref="a-sea-of-sand"/>
+    <file name="pic_0071.jpg" crc="4072796766" ref="a-sea-of-sand">
+      <caption webpage="a-sea-of-sand" alt=""/>
+    </file>
+    <file name="pic_0070.jpg" crc="207750000" ref="a-sea-of-sand">
+      <caption webpage="a-sea-of-sand" alt=""/>
+    </file>
+    <file name="pic_0069.jpg" crc="4226879007" ref="a-sea-of-sand">
+      <caption webpage="a-sea-of-sand" alt=""/>
+    </file>
+    <file name="pic_0065.jpg" crc="354704521" ref="a-crooked-tree">
+      <caption webpage="a-crooked-tree" alt=""/>
+    </file>
+    <file name="pic_0064.jpg" crc="265667834" ref="a-crooked-tree">
+      <caption webpage="a-crooked-tree" alt=""/>
+    </file>
+    <file name="pic_00632.jpg" crc="3973861294" ref="a-crooked-tree">
+      <caption webpage="a-crooked-tree" alt=""/>
+    </file>
+    <file name="pic_0074.jpg" crc="167680400" ref="zion-cliff">
+      <caption webpage="zion-cliff" alt=""/>
+    </file>
+    <file name="pic_0073.jpg" crc="29547169" ref="zion-cliff">
+      <caption webpage="zion-cliff" alt=""/>
+    </file>
+    <file name="pic_0072.jpg" crc="183922205" ref="zion-cliff">
+      <caption webpage="zion-cliff" alt=""/>
+    </file>
+    <file name="pic_0044.jpg" crc="4103309344" ref="fern-wall">
+      <caption webpage="fern-wall" alt=""/>
+    </file>
+    <file name="pic_0043.jpg" crc="408286745" ref="fern-wall">
+      <caption webpage="fern-wall" alt=""/>
+    </file>
+    <file name="pic_0042.jpg" crc="370422193" ref="fern-wall">
+      <caption webpage="fern-wall" alt=""/>
+    </file>
+    <file name="pic_0032.jpg" crc="524427822" ref="rock-in-the-river">
+      <caption webpage="rock-in-the-river" alt=""/>
+    </file>
+    <file name="pic_0031.jpg" crc="4265256901" ref="rock-in-the-river">
+      <caption webpage="rock-in-the-river" alt=""/>
+    </file>
+    <file name="pic_0030.jpg" crc="4149960291" ref="rock-in-the-river">
+      <caption webpage="rock-in-the-river" alt=""/>
+    </file>
+    <file name="pic_0095-u3510-fr.jpg" crc="43886102" ref="land-ripples"/>
+    <file name="pic_0017.jpg" crc="185021701" ref="land-ripples">
+      <caption webpage="land-ripples" alt=""/>
+    </file>
+    <file name="pic_0016.jpg" crc="4083598951" ref="land-ripples">
+      <caption webpage="land-ripples" alt=""/>
+    </file>
+    <file name="pic_0015.jpg" crc="82259450" ref="land-ripples">
+      <caption webpage="land-ripples" alt=""/>
+    </file>
+    <file name="pic_0066-u3585-fr.jpg" crc="196518608" ref="water-canyon-sunrise"/>
+    <file name="pic_0083.jpg" crc="131505230" ref="water-canyon-sunrise">
+      <caption webpage="water-canyon-sunrise" alt=""/>
+    </file>
+    <file name="pic_0082.jpg" crc="3949054424" ref="water-canyon-sunrise">
+      <caption webpage="water-canyon-sunrise" alt=""/>
+    </file>
+    <file name="pic_00812.jpg" crc="4150439461" ref="water-canyon-sunrise">
+      <caption webpage="water-canyon-sunrise" alt=""/>
+    </file>
+    <file name="pic_0068-u3603-fr.jpg" crc="4001088579" ref="upstream-tree"/>
+    <file name="pic_0080.jpg" crc="266945057" ref="upstream-tree">
+      <caption webpage="upstream-tree" alt=""/>
+    </file>
+    <file name="pic_0079.jpg" crc="4248782317" ref="upstream-tree">
+      <caption webpage="upstream-tree" alt=""/>
+    </file>
+    <file name="pic_0078.jpg" crc="257788377" ref="upstream-tree">
+      <caption webpage="upstream-tree" alt=""/>
+    </file>
+    <file name="pic_0060-u3637-fr.jpg" crc="11170543" ref="narrows-in-zion"/>
+    <file name="pic_0020.jpg" crc="4107802866" ref="narrows-in-zion">
+      <caption webpage="narrows-in-zion" alt=""/>
+    </file>
+    <file name="pic_0019.jpg" crc="256921452" ref="narrows-in-zion">
+      <caption webpage="narrows-in-zion" alt=""/>
+    </file>
+    <file name="pic_0018.jpg" crc="379862278" ref="narrows-in-zion">
+      <caption webpage="narrows-in-zion" alt=""/>
+    </file>
+    <file name="pic_0057-u3661-fr.jpg" crc="4276908414" ref="narrows-in-zion-2"/>
+    <file name="pic_0023.jpg" crc="261007784" ref="narrows-in-zion-2">
+      <caption webpage="narrows-in-zion-2" alt=""/>
+    </file>
+    <file name="pic_00222.jpg" crc="377877530" ref="narrows-in-zion-2">
+      <caption webpage="narrows-in-zion-2" alt=""/>
+    </file>
+    <file name="pic_0021.jpg" crc="3903282702" ref="narrows-in-zion-2">
+      <caption webpage="narrows-in-zion-2" alt=""/>
+    </file>
+    <file name="pic_0047-u3688-fr.jpg" crc="289238430" ref="narrows-in-zion-3"/>
+    <file name="pic_0059.jpg" crc="55007297" ref="narrows-in-zion-3">
+      <caption webpage="narrows-in-zion-3" alt=""/>
+    </file>
+    <file name="pic_0058.jpg" crc="52527615" ref="narrows-in-zion-3">
+      <caption webpage="narrows-in-zion-3" alt=""/>
+    </file>
+    <file name="pic_0057.jpg" crc="4098834444" ref="narrows-in-zion-3">
+      <caption webpage="narrows-in-zion-3" alt=""/>
+    </file>
+    <file name="pic_0045-u3712-fr.jpg" crc="239351340" ref="narrows-in-zion-4"/>
+    <file name="pic_0041.jpg" crc="4222654033" ref="narrows-in-zion-4">
+      <caption webpage="narrows-in-zion-4" alt=""/>
+    </file>
+    <file name="pic_00402.jpg" crc="346033735" ref="narrows-in-zion-4">
+      <caption webpage="narrows-in-zion-4" alt=""/>
+    </file>
+    <file name="pic_0039.jpg" crc="3843375119" ref="narrows-in-zion-4">
+      <caption webpage="narrows-in-zion-4" alt=""/>
+    </file>
+    <file name="pic_0049-u3726-fr.jpg" crc="4104318421" ref="narrows-in-zion-5"/>
+    <file name="pic_0014.jpg" crc="324250713" ref="narrows-in-zion-5">
+      <caption webpage="narrows-in-zion-5" alt=""/>
+    </file>
+    <file name="pic_0013.jpg" crc="193926887" ref="narrows-in-zion-5">
+      <caption webpage="narrows-in-zion-5" alt=""/>
+    </file>
+    <file name="pic_0012.jpg" crc="279838348" ref="narrows-in-zion-5">
+      <caption webpage="narrows-in-zion-5" alt=""/>
+    </file>
+    <file name="pic_0064-u3762-fr.jpg" crc="123139340" ref="glistening-tree"/>
+    <file name="pic_0077.jpg" crc="4059520645" ref="glistening-tree">
+      <caption webpage="glistening-tree" alt=""/>
+    </file>
+    <file name="pic_0076.jpg" crc="154755823" ref="glistening-tree">
+      <caption webpage="glistening-tree" alt=""/>
+    </file>
+    <file name="pic_0075.jpg" crc="106102395" ref="glistening-tree">
+      <caption webpage="glistening-tree" alt=""/>
+    </file>
+    <file name="pic_0039-u3778-fr.jpg" crc="107165221" ref="orange-cliffs"/>
+    <file name="pic_0047.jpg" crc="512599926" ref="orange-cliffs">
+      <caption webpage="orange-cliffs" alt=""/>
+    </file>
+    <file name="pic_0046.jpg" crc="4241562926" ref="orange-cliffs">
+      <caption webpage="orange-cliffs" alt=""/>
+    </file>
+    <file name="pic_0045.jpg" crc="97597625" ref="orange-cliffs">
+      <caption webpage="orange-cliffs" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4127651024" seo="true" mt="1499573382806" redirect="true"/>
+  <file name="contact.html" crc="4290107815" seo="true" mt="1499103678708" redirect="true"/>
+  <file name="prints.html" crc="107964216" seo="true" mt="1499573382806" redirect="true"/>
+  <file name="prints-2.html" crc="441587676" seo="true" mt="1499573381852" redirect="true"/>
+  <file name="milky-way.html" crc="4189093939" seo="true" mt="1499573382640" redirect="true"/>
+  <file name="water-canyon.html" crc="3864629548" seo="true" mt="1499573382146" redirect="true"/>
+  <file name="horseshoe-bend.html" crc="166080482" seo="true" mt="1499573382426" redirect="true"/>
+  <file name="boulder-in-the-narrows.html" crc="4202293557" seo="true" mt="1499573382214" redirect="true"/>
+  <file name="delicate-arch.html" crc="181418109" seo="true" mt="1499573380511" redirect="true"/>
+  <file name="waning-light-on-grand-canyon.html" crc="3928148810" seo="true" mt="1499573381994" redirect="true"/>
+  <file name="hollowed-sandstone-walls.html" crc="310871909" seo="true" mt="1499573382067" redirect="true"/>
+  <file name="solitude-in-sandstone.html" crc="4240567530" seo="true" mt="1499573380585" redirect="true"/>
+  <file name="monumental-road.html" crc="34119799" seo="true" mt="1499573382557" redirect="true"/>
+  <file name="river-bend.html" crc="358210338" seo="true" mt="1499573380721" redirect="true"/>
+  <file name="a-splash-of-sunlight.html" crc="4268797310" seo="true" mt="1499573381926" redirect="true"/>
+  <file name="bryce-canyon-in-the-blue-hour.html" crc="4181323087" seo="true" mt="1499573382495" redirect="true"/>
+  <file name="a-sea-of-sand.html" crc="3989738520" seo="true" mt="1499573382805" redirect="true"/>
+  <file name="a-crooked-tree.html" crc="3822863684" seo="true" mt="1499573380647" redirect="true"/>
+  <file name="zion-cliff.html" crc="78933289" seo="true" mt="1499573381749" redirect="true"/>
+  <file name="fern-wall.html" crc="3851030107" seo="true" mt="1499573380435" redirect="true"/>
+  <file name="rock-in-the-river.html" crc="3882204113" seo="true" mt="1499573382285" redirect="true"/>
+  <file name="land-ripples.html" crc="4043011130" seo="true" mt="1499573380822" redirect="true"/>
+  <file name="water-canyon-sunrise.html" crc="3777814635" seo="true" mt="1499573380920" redirect="true"/>
+  <file name="upstream-tree.html" crc="491332341" seo="true" mt="1499573381025" redirect="true"/>
+  <file name="narrows-in-zion.html" crc="422004588" seo="true" mt="1499573381130" redirect="true"/>
+  <file name="narrows-in-zion-2.html" crc="503591800" seo="true" mt="1499573381238" redirect="true"/>
+  <file name="narrows-in-zion-3.html" crc="478033973" seo="true" mt="1499573381352" redirect="true"/>
+  <file name="narrows-in-zion-4.html" crc="3904810247" seo="true" mt="1499573381464" redirect="true"/>
+  <file name="narrows-in-zion-5.html" crc="3966988285" seo="true" mt="1499573381853" redirect="true"/>
+  <file name="glistening-tree.html" crc="4220773976" seo="true" mt="1499573381570" redirect="true"/>
+  <file name="orange-cliffs.html" crc="243174494" seo="true" mt="1499573381670" redirect="true"/>
+</manifest>
